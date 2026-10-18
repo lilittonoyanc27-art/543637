@@ -1,0 +1,6 @@
+{
+  "name": "Cristiano Ronaldo: Spanish Football Learning",
+  "description": "Learn Spanish through Cristiano Ronaldo's interview with interactive synchronized subtitles, Armenian translations, vocabulary cards, and football quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
